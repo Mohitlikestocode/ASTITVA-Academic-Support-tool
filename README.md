@@ -34,6 +34,8 @@ Commercial analytics platforms are **expensive** and demand **heavy maintenance*
 
 ---
 
+# We would like to pursue this idea deeply into the "Internet in a box" concept, so we can reach the remotest of the village, and even without internet connection, the teachers and admins can care and analyse the students.
+
 ## 💡 Our Solution — *ASTITVA*  
 A lightweight, transparent, and ML-powered platform that:  
 
@@ -75,7 +77,7 @@ A lightweight, transparent, and ML-powered platform that:
 
 ### Prerequisites  
 - Node.js & npm installed → [nvm install guide](https://github.com/nvm-sh/nvm#installing-and-updating)  
-- MongoDB (local or cloud)  
+- Supabase (local for the future, cloud currently)  
 
 ### Run Locally  
 ```sh
