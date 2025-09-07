@@ -55,6 +55,16 @@ A lightweight, transparent, and ML-powered platform that:
 
 ---
 
+## Note for Judges
+During development, we experimented with:  
+- 🤖 AI-based mentorship chatbots  
+- 📊 Complex deep learning models  
+- ☁️ Enterprise-grade cloud dashboards  
+
+But we chose to **stay true to the problem statement**. We read the problem statement EVERY 30 minutes, because ultimately we want to give a true and a vialble solution that matches thee exact requirement of the problem
+The govt. itself points out that **costly platforms already exist** — what’s missing is **a viable, grassroots-friendly system**.  
+
+
 ## 🏗️ Features at a Glance  
 ✅ Student Risk Prediction (ML + rule-based logic)  
 ✅ Excel Upload (drag & drop interface)  
