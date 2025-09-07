@@ -1,73 +1,90 @@
-# Welcome to your project
+# 🌐 ASTITVA  
+**Academic Support Tool For Intervention, Tracking & Value Alignment**  
+📍 Built for **SNU-SIH Hackathon**  
 
-## Project info
+---
 
-<!-- Removed unwanted lovable reference -->
+## 🖼️ Project Snapshots  
 
-## How can I edit this code?
+### 🎯 Main Hackathon Theme  
+<img width="2783" height="1458" alt="image" src="https://github.com/user-attachments/assets/5d283c6b-7edf-47be-8722-e949cde64eee" />
 
-There are several ways of editing your application.
+### 🔔 Notification System  
+<img width="1540" height="1271" alt="image" src="https://github.com/user-attachments/assets/3bab5bd4-7dc4-42d0-873a-4cd434d4ddb4" />
 
-<!-- Removed unwanted lovable reference -->
+### 🤖 ML Model (99% Accuracy)  
+<img width="1321" height="418" alt="image" src="https://github.com/user-attachments/assets/6bbc719a-aaa8-4e26-8ec0-c4cb9dd41d19" />
 
-<!-- Removed unwanted lovable reference -->
+### ⚙️ Backend Exploration  
+(Started with Java → finalized Node.js)  
+<img width="1990" height="1365" alt="image" src="https://github.com/user-attachments/assets/46a61aac-761d-4b32-8b0e-002f3d453eb3" />
 
-<!-- Removed unwanted lovable reference -->
+---
 
-**Use your preferred IDE**
+## 🚩 Problem Statement  
+By the time **term-end marks** reveal failures, struggling students have often disengaged beyond recovery.  
 
-<!-- Removed unwanted lovable reference -->
+- Attendance is in one spreadsheet.  
+- Test scores in another.  
+- Fee-payment data in a third.  
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+👉 No **single view** exists to show when a student is slipping in **multiple areas simultaneously**.  
 
-Follow these steps:
+Commercial analytics platforms are **expensive** and demand **heavy maintenance**—beyond the reach of most public institutes.  
 
+---
+
+## 💡 Our Solution — *ASTITVA*  
+A lightweight, transparent, and ML-powered platform that:  
+
+1. 📂 **Ingests spreadsheets** (attendance, test results, fees, etc.).  
+2. ⚡ **Applies ML + rule-based thresholds** to detect at-risk students (dropout likelihood).  
+3. 🎨 **Visualizes risks** in a clean dashboard:  
+   - ✅ Green (0–75% risk)  
+   - ⚠️ Orange (75–90% risk)  
+   - 🔴 Red (90%+ risk)  
+4. 📱 **Notifies mentors, guardians, and students** via SMS & Email.  
+5. 👨‍🏫 Provides **dual roles**:  
+   - **Admin View** → consolidated risk dashboard of all students.  
+   - **Student View** → personal profile + weak areas & tips.  
+6. 🛠️ **Low-cost, easy-to-use, no vendor lock-in**.  
+
+---
+
+## 🏗️ Features at a Glance  
+✅ Student Risk Prediction (ML + rule-based logic)  
+✅ Excel Upload (drag & drop interface)  
+✅ Dashboard with filters, sorting, and color-coded risk levels  
+✅ Student Profiles (auto-filled from uploaded Excel)  
+✅ Regular Notifications (Email & SMS)  
+✅ Admin & Student Interfaces  
+✅ Lightweight, scalable, and easy to deploy  
+
+---
+
+## 🔧 Tech Stack  
+- **Frontend:** React (Vite, TypeScript, shadcn-ui, Tailwind CSS)  
+- **Backend:** Node.js (Express)  
+- **Database:** MongoDB  
+- **ML Model:** Scikit-learn (Python, 99% accuracy)  
+- **Notifications:** Twilio (SMS), Nodemailer (Email)  
+
+---
+
+## 🚀 Getting Started  
+
+### Prerequisites  
+- Node.js & npm installed → [nvm install guide](https://github.com/nvm-sh/nvm#installing-and-updating)  
+- MongoDB (local or cloud)  
+
+### Run Locally  
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
+# Step 1: Clone the repository
 git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
 cd <YOUR_PROJECT_NAME>
 
-# Step 3: Install the necessary dependencies.
+# Step 2: Install dependencies
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 3: Start development server
 npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-<!-- Removed unwanted lovable reference -->
-
-<!-- Removed unwanted lovable reference -->
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-<!-- Removed unwanted lovable reference -->
