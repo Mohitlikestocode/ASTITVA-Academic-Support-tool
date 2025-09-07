@@ -10,7 +10,7 @@
 ### 🎯 Main Hackathon Theme  
 <img width="2783" height="1458" alt="image" src="https://github.com/user-attachments/assets/5d283c6b-7edf-47be-8722-e949cde64eee" />
 
-### Sample Excel Sheet - https://docs.google.com/spreadsheets/d/10mvoTbcSFvQ3lSx7qsmzY0qALmXPxCXU/edit?usp=sharing&ouid=102812434854459205113&rtpof=true&sd=true
+### Sample Excel Sheet - [Google Sheets Link](https://docs.google.com/spreadsheets/d/10mvoTbcSFvQ3lSx7qsmzY0qALmXPxCXU/edit?usp=sharing&ouid=102812434854459205113&rtpof=true&sd=true)
 
 ### 🔔 Notification System  
 <img width="1540" height="1271" alt="image" src="https://github.com/user-attachments/assets/3bab5bd4-7dc4-42d0-873a-4cd434d4ddb4" />
@@ -34,11 +34,14 @@ By the time **term-end marks** reveal failures, struggling students have often d
 👉 No **single view** exists to show when a student is slipping in **multiple areas simultaneously**.  
 
 Plus the problem statement says that Commercial analytics (Such as blackboard itself) platforms are **expensive** and demand **heavy maintenance**—beyond the reach of most public institutes.  
-##That's where we came with the idea of ASTITVA.
+
+## ✅ That’s exactly where we came with the idea of **ASTITVA** — a low-cost, scalable, and practical solution fully aligned with the problem statement.  
 
 ---
 
 ## ps - We would like to pursue this idea deeply into the "Internet in a box" concept in our next level, so we can reach the remotest of the village, and even without internet connection, the teachers and admins can care and analyse the students. That will be our implementation plan in the later stages! 
+
+---
 
 ## 💡 Our Solution — *ASTITVA*  
 A lightweight, transparent, and ML-powered platform that:  
@@ -57,14 +60,18 @@ A lightweight, transparent, and ML-powered platform that:
 
 ---
 
-## Note for Judges
-During development, we experimented with:  
+## 📝 Note for Judges  
+During development, we explored:  
 - 🤖 AI-based mentorship chatbots  
 - 📊 Complex deep learning models  
 - ☁️ Enterprise-grade cloud dashboards  
 
-## But we chose to **stay true to the problem statement**. We read the problem statement EVERY 30 minutes, because ultimately we want to give a true and a vialble solution that matches thee exact requirement of the problem. The govt. itself points out that **costly platforms already exist** — what’s missing is **a viable, grassroots-friendly system**.  
+But we chose to **stay true to the problem statement**.  
+We kept reminding ourselves that the govt. already knows **costly platforms exist** — what’s missing is a **viable, grassroots-friendly system**.  
 
+👉 **ASTITVA directly solves every pain-point in the problem statement** while staying lightweight, practical, and affordable.  
+
+---
 
 ## 🏗️ Features at a Glance  
 ✅ Student Risk Prediction (ML + rule-based logic)  
@@ -77,15 +84,14 @@ During development, we experimented with:
 ✅ Student Profiles (auto-filled from uploaded Excel) 
 <img width="2753" height="1466" alt="image" src="https://github.com/user-attachments/assets/24765076-23fd-4d53-b5b7-03d11289cb21" />
  
-✅ Regular Notifications (Email & SMS)  (We can Notify ALL the students who have less attendance and poor grades)
+✅ Regular Notifications (Email & SMS)  
 <img width="2845" height="1341" alt="image" src="https://github.com/user-attachments/assets/a4ad705e-2e75-4aac-a689-a0e39296bc72" />
 
-✅ Easy to understand Interface so it's not too complicated!
+✅ Easy to understand Interface  
 <img width="2850" height="1440" alt="image" src="https://github.com/user-attachments/assets/99800fbf-1a3a-47a5-a618-3edd9cbe338d" />
 
-✅ Download RISK wise/ Attendance <75% wise excel sheets after filtering because ultimately a lot of people STILL use excel sheets, so keeping that in mind we had brought this feature!
+✅ Download RISK wise / Attendance <75% wise Excel sheets (since many still prefer Excel workflows)  
 <img width="2825" height="1332" alt="image" src="https://github.com/user-attachments/assets/5e5dc9ef-1f41-464a-864b-dbc5ee642131" />
-
 
 ✅ Lightweight, scalable, and easy to deploy  
 
