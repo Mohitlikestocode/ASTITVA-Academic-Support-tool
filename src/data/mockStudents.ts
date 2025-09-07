@@ -13,6 +13,7 @@ export interface Student {
   department: string;
   gender: 'Male' | 'Female' | 'Other';
   interventionNotes?: string[];
+  phone?: string;
 }
 
 export const mockStudents: Student[] = [
@@ -31,7 +32,8 @@ export const mockStudents: Student[] = [
     semester: 6,
     department: 'Computer Science',
     gender: 'Male',
-    interventionNotes: []
+  interventionNotes: [],
+  phone: '9876543210'
   },
   {
     id: '2',
@@ -47,7 +49,8 @@ export const mockStudents: Student[] = [
     semester: 6,
     department: 'Computer Science',
     gender: 'Female',
-    interventionNotes: ['Called parent regarding attendance - March 15', 'Scheduled counseling session - March 20']
+  interventionNotes: ['Called parent regarding attendance - March 15', 'Scheduled counseling session - March 20'],
+  phone: '9123456780'
   },
   {
     id: '3',
@@ -68,7 +71,8 @@ export const mockStudents: Student[] = [
       'Parent meeting scheduled - March 25',
       'Referred to academic advisor',
       'Fee payment plan discussed'
-    ]
+    ],
+    phone: '9988776655'
   },
   {
     id: '4',
@@ -77,7 +81,8 @@ export const mockStudents: Student[] = [
     email: 'sneha.gupta@college.edu',
     attendance: 92,
     grades: 9.1,
-    numberOfBacks: 0,
+  numberOfBacks: 0,
+  phone: '9001122334',
     feePayment: true,
     riskScore: 0.08,
     riskLevel: 'Low',

@@ -1,3 +1,4 @@
+// Table component for displaying and managing student data
 import { useState, useMemo } from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
@@ -303,10 +304,20 @@ const StudentsTable = () => {
                           </DialogContent>
                         </Dialog>
                         
-                        <Button variant="ghost" size="sm">
+                        <Button
+                          variant="ghost"
+                          size="sm"
+                          onClick={() => window.open(`mailto:${student.email}`)}
+                          title={`Email ${student.name}`}
+                        >
                           <Mail className="w-4 h-4" />
                         </Button>
-                        <Button variant="ghost" size="sm">
+                        <Button
+                          variant="ghost"
+                          size="sm"
+                          onClick={() => window.open(`tel:${student.phone}`)}
+                          title={`Call ${student.name}`}
+                        >
                           <Phone className="w-4 h-4" />
                         </Button>
                       </div>
