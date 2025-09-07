@@ -2,6 +2,7 @@
 **Academic Support Tool For Intervention, Tracking & Value Alignment**  
 📍 Built for **SNU-SIH Hackathon**  
 
+## Please do read along to understand deeply about our project, cause and solution! :)
 ---
 
 ## 🖼️ Project Snapshots  
@@ -23,8 +24,8 @@
 
 ---
 
-## 🚩 Problem Statement  
-By the time **term-end marks** reveal failures, struggling students have often disengaged beyond recovery.  
+## 🚩 Problem Statement 
+By the time **term-end marks** reveal failures, struggling students have often disengaged beyond recovery, which often result in Dropouts.  
 
 - Attendance is in one spreadsheet.  
 - Test scores in another.  
@@ -32,11 +33,12 @@ By the time **term-end marks** reveal failures, struggling students have often d
 
 👉 No **single view** exists to show when a student is slipping in **multiple areas simultaneously**.  
 
-Commercial analytics platforms are **expensive** and demand **heavy maintenance**—beyond the reach of most public institutes.  
+Plus the problem statement says that Commercial analytics (Such as blackboard itself) platforms are **expensive** and demand **heavy maintenance**—beyond the reach of most public institutes.  
+##That's where we came with the idea of ASTITVA.
 
 ---
 
-# We would like to pursue this idea deeply into the "Internet in a box" concept, so we can reach the remotest of the village, and even without internet connection, the teachers and admins can care and analyse the students.
+## ps - We would like to pursue this idea deeply into the "Internet in a box" concept in our next level, so we can reach the remotest of the village, and even without internet connection, the teachers and admins can care and analyse the students. That will be our implementation plan in the later stages! 
 
 ## 💡 Our Solution — *ASTITVA*  
 A lightweight, transparent, and ML-powered platform that:  
@@ -68,10 +70,24 @@ The govt. itself points out that **costly platforms already exist** — what’s
 ## 🏗️ Features at a Glance  
 ✅ Student Risk Prediction (ML + rule-based logic)  
 ✅ Excel Upload (drag & drop interface)  
+<img width="2788" height="1413" alt="image" src="https://github.com/user-attachments/assets/dabd8eae-3f5d-480c-a6a9-45ad5d590a8d" />
+
 ✅ Dashboard with filters, sorting, and color-coded risk levels  
-✅ Student Profiles (auto-filled from uploaded Excel)  
-✅ Regular Notifications (Email & SMS)  
-✅ Admin & Student Interfaces  
+<img width="2839" height="1420" alt="image" src="https://github.com/user-attachments/assets/aeb5bf2a-c295-4777-bd4d-c354fea1a2d5" />
+
+✅ Student Profiles (auto-filled from uploaded Excel) 
+<img width="2753" height="1466" alt="image" src="https://github.com/user-attachments/assets/24765076-23fd-4d53-b5b7-03d11289cb21" />
+ 
+✅ Regular Notifications (Email & SMS)  (We can Notify ALL the students who have less attendance and poor grades)
+<img width="2845" height="1341" alt="image" src="https://github.com/user-attachments/assets/a4ad705e-2e75-4aac-a689-a0e39296bc72" />
+
+✅ Easy to understand Interface so it's not too complicated!
+<img width="2850" height="1440" alt="image" src="https://github.com/user-attachments/assets/99800fbf-1a3a-47a5-a618-3edd9cbe338d" />
+
+✅ Download RISK wise/ Attendance <75% wise excel sheets after filtering because ultimately a lot of people STILL use excel sheets, so keeping that in mind we had brought this feature!
+<img width="2825" height="1332" alt="image" src="https://github.com/user-attachments/assets/5e5dc9ef-1f41-464a-864b-dbc5ee642131" />
+
+
 ✅ Lightweight, scalable, and easy to deploy  
 
 ---
