@@ -9,6 +9,8 @@
 ### 🎯 Main Hackathon Theme  
 <img width="2783" height="1458" alt="image" src="https://github.com/user-attachments/assets/5d283c6b-7edf-47be-8722-e949cde64eee" />
 
+### Sample Excel Sheet - https://docs.google.com/spreadsheets/d/10mvoTbcSFvQ3lSx7qsmzY0qALmXPxCXU/edit?usp=sharing&ouid=102812434854459205113&rtpof=true&sd=true
+
 ### 🔔 Notification System  
 <img width="1540" height="1271" alt="image" src="https://github.com/user-attachments/assets/3bab5bd4-7dc4-42d0-873a-4cd434d4ddb4" />
 
