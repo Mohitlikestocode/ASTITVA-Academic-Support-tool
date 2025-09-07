@@ -1,3 +1,4 @@
+// 404 Not Found page, displays error and link to home when route is invalid
 import { useLocation } from "react-router-dom";
 import { useEffect } from "react";
 

@@ -1,3 +1,4 @@
+// Main app container, handles navigation and view rendering
 import { useState } from 'react';
 import { cn } from '@/lib/utils';
 import Navigation from './Navigation';

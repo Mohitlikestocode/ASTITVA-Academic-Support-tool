@@ -1,3 +1,4 @@
+// Configuration for shadcn/ui component setup
 {
   "$schema": "https://ui.shadcn.com/schema.json",
   "style": "default",

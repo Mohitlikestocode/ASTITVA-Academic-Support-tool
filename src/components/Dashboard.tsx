@@ -1,3 +1,4 @@
+// Dashboard component showing student stats and risk analysis
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { PieChart, Pie, Cell, ResponsiveContainer, BarChart, Bar, XAxis, YAxis, Tooltip, Legend } from 'recharts';
 import { Users, AlertTriangle, Shield, TrendingUp, Upload, FileText } from 'lucide-react';
