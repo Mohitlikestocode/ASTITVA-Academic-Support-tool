@@ -3,7 +3,11 @@
 📍 Built for **SNU-SIH Hackathon**  
 
 ## Please do read along to understand deeply about our project, cause and solution! :)
-### We focused on being relevant to the problem statement, not over engineering it because it has to be scalable and easy to use!(more about it below)
+### We focused on being relevant to the problem statement, not over engineering it, because our solution has to be scalable and easy to use! (more about it below)  
+
+<a href="https://drive.google.com/file/d/1LUerRqTBml9vx5x3Ryr3YEBPuxu_Hdgb/view?usp=sharing" style="color:blue; font-weight:bold;" target="_blank">
+📄 Problem Statement
+</a>
 ---
 
 ## 🖼️ Project Snapshots  
